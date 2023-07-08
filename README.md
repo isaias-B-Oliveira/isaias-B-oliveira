@@ -27,6 +27,7 @@
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-B-oliveira&theme=dracula&hide_langs_below=1" />
 </a>
 <br>
+<br>
 
 
 <!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
