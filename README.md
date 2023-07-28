@@ -1,6 +1,6 @@
  <h1 align="center"> Ola! eu sou isaias 👋 </h1>
 <br><br>
-<img align="left" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="left" width="400" src="https://github.com/isaias-B-Oliveira/isaias-B-oliveira/assets/126277721/800542b4-90be-4132-b6ab-2f0b4c835f63" /> <br><br>
 <br>
 <br>
 <br>
@@ -38,5 +38,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaias-B-oliveira&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a> --> 
 <br>
+
 
 
