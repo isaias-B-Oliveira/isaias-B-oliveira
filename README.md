@@ -17,6 +17,9 @@
 <a href="https://github.com/Gurupreet">
   <img align="left" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-B-oliveira&theme=dracula&hide_langs_below=1" />
 </a>
+ <a href= " https://github.com/anuraghazra/github-readme-stats">
+   <img width="350" height="300" src="https://github-readme-stats.vercel.app/api?username=isaias-B-oliveira&theme=dracula" />
+ </a>
 <br>
 <br>
 </div>
