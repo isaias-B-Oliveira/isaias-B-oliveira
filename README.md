@@ -1,14 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 # 👋 Olá, Devs
-### Meu nome é Isaias !
-- 📍 Localização: São Miguel/ RN
-- 🎂 Idade: Tenho 27 anos
-- 💻 Profissão: Sou Desenvolvedor web
-
----
-
-- ## Como entrar em contato comigo
+# Meu nome é Isaias !
+### Como entrar em contato comigo
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/isaias-oliveira-942219257/)
 
 ---
