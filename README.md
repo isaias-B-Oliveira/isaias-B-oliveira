@@ -58,6 +58,6 @@
 
 ---
   <div style="display: inline_block">
-    <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-B-oliveira&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=isaias-B-oliveira&show_icons=true&include_all_commits=true&theme=radical"/>
+    <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-B-oliveira&layout=compact&langs_count=7&theme=blue-green"/>
+    <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=isaias-B-oliveira&show_icons=true&include_all_commits=true&theme=blue-green"/>
   </div>
