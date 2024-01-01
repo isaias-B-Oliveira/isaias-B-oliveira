@@ -65,9 +65,4 @@
     <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=isaias-B-oliveira&show_icons=true&include_all_commits=true&theme=blue-green"/>
   </div>
 
-  
-
-
-
-
-  
+ 
