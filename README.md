@@ -56,7 +56,9 @@
 
 ### Que estou aprendendo:
 <div>
- <img height="48px" width="48px" alt="Icone aws" src="https://skillicons.dev/icons?i=aws"/>          
+  <img height="48px" width="48px" alt="Icone linux" src="https://skillicons.dev/icons?i=linux"/> 
+  <img height="48px" width="48px" alt="Icone ubuntu" src="https://skillicons.dev/icons?i=ubuntu"/> 
+  <img height="48px" width="48px" alt="Icone docker" src="https://skillicons.dev/icons?i=docker&theme=dark"/>  
 </div>
 
 ---
