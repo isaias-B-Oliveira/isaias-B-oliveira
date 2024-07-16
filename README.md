@@ -41,6 +41,7 @@
 
  ---
 
+
  ### Ferramentas que Uso:
   <div style="display: inline_block">
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
