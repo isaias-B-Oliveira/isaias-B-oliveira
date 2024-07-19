@@ -65,6 +65,7 @@
   <img height="48px" width="48px" alt="Icone docker" src="https://skillicons.dev/icons?i=docker&theme=dark"/>  
 </div>
 
+
 ---
   <div style="display: inline_block">
     <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-B-oliveira&layout=compact&langs_count=7&theme=blue-green"/>
