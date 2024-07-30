@@ -37,9 +37,9 @@
     <img height="48px" width="48px" alt="Icone mysql" src="https://skillicons.dev/icons?i=mysql"/>
     <img height="48px" width="48px" alt="Icone sequelize" src="https://skillicons.dev/icons?i=sequelize"/>
     <img height="48px" width="48px" alt="Icone mongodb" src="https://skillicons.dev/icons?i=mongodb"/>
-    <img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=prisma"/>
+<!--     <img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=prisma"/>
     <img height="48px" width="48px" alt="Icone supabase" src="https://skillicons.dev/icons?i=supabase"/>
-    <img height="48px" width="48px" alt="Icone jest" src="https://skillicons.dev/icons?i=jest"/>              
+    <img height="48px" width="48px" alt="Icone jest" src="https://skillicons.dev/icons?i=jest"/>               -->
  </div>
 
  ---
