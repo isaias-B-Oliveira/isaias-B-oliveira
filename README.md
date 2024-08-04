@@ -9,8 +9,6 @@
 ---
 
 
-  
-
 
 ## Ferramentas e Tecnologias
  
