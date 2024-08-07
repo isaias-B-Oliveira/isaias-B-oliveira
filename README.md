@@ -2,6 +2,7 @@
 
 # 👋 Olá, Devs
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=5032&pause=971&color=02C000&random=false&width=567&lines=Bem+vindo(a)++ao+meu+Perfil;Meu+nome+e+Isaias!;Sou+Web+Developer)](https://git.io/typing-svg)
 ### Como entrar em contato comigo
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/isaias-oliveira-942219257/)
